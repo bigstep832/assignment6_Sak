@@ -5,8 +5,6 @@
 
 A personal portfolio built with HTML, CSS and jQuery.
 
-Open `index.html` in a browser. An internet connection is required to load jQuery from the CDN.
-
 ## Part 1 - Getting Started with jQuery
 
 ### Task 0 - Setup
